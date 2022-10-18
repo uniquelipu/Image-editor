@@ -1,5 +1,5 @@
 # PixelArtEditor
-A simple Android image editor project.
+A simple image editor project for android done by Abinash Giri.
 
 ## NOTICE
 For some reason, development is temporarily suspended.
